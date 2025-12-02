@@ -5,7 +5,8 @@ class FileTypeTest extends TestCase
 {
     private $projectFiles = [
         'index.php',
-        "galeri.php"
+        "galeri.php",
+        "kontak.php"
     ];
 
     public function test_files_exist()
